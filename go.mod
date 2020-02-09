@@ -3,6 +3,7 @@ module github.com/MartinHeinz/go-project-blueprint
 go 1.12
 
 require (
+	github.com/MartinHeinz/github-actions v0.0.0-20190821122003-b52c5e92fc25 // indirect
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/creack/pty v1.1.9 // indirect
